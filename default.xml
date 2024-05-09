@@ -1367,5 +1367,8 @@
   <include name="snippets/lineage.xml" />
   <include name="snippets/blaze-extra.xml" />
   <include name="snippets/blaze.xml" />
+
+  <!-- ifrit patches -->
+  <include name="snippets/ifrit.xml" />
   
 </manifest>
